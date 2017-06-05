@@ -23,7 +23,7 @@ class App extends Component {
                 </div>
                 <Clock
                 deadline={this.state.deadline}
-                />
+                /\
                 <div>
                     <input 
                         placeholder='new date'
